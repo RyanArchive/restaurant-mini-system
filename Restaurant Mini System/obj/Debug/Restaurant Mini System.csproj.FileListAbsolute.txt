@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\bin\Debug\Restaurant Mini System.exe.config
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\bin\Debug\Restaurant Mini System.exe
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\bin\Debug\Restaurant Mini System.pdb
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant Mini System.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Login.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Properties.Resources.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant Mini System.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant Mini System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant Mini System.exe
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant Mini System.pdb
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Register.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Reservation.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Reservation_Code.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Admin.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\bin\Debug\dbReserve.accdb
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Admin_Account.resources
+C:\Users\Acer\source\repos\Restaurant Mini System\Restaurant Mini System\obj\Debug\Restaurant_Mini_System.Admin_Reservation.resources
